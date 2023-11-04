@@ -1,0 +1,25 @@
+/* STYLES */
+
+body {
+    background: rgb(227, 23, 108);
+    color: rgb(173, 252, 103);
+    font-family: fantasy;
+    font-style: oblique;
+
+}
+main{
+    max-width: 650px;
+    background: rgb(186, 89, 105);
+    border: 10px solid rgb(20, 177, 20);
+    padding: 16px;
+    margin: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-size: 72px;
+    letter-spacing: -2px;
+    line-height: 70px;
+    color: aquamarine;
+    font-weight: 300;
+}
